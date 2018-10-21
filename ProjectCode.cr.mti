@@ -1,0 +1,26 @@
+{C:/VIT/Semester 3/ECE2026/Project/BlogSpot.v} {1 {vlog -work work {C:/VIT/Semester 3/ECE2026/Project/BlogSpot.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ha
+-- Compiling module vedic_2x2
+-- Compiling module add_N_bit
+-- Compiling module half_adder
+-- Compiling module full_adder
+-- Compiling module add_4_bit
+-- Compiling module add_6_bit
+-- Compiling module vedic_4x4
+-- Compiling module add_8_bit
+-- Compiling module add_12_bit
+-- Compiling module vedic_8x8
+-- Compiling module add_16_bit
+-- Compiling module add_24_bit
+-- Compiling module vedic_16x16
+-- Compiling module add_32_bit
+-- Compiling module add_48_bit
+-- Compiling module vedic_32x32
+-- Compiling module test_vedic_32
+
+Top level modules:
+	add_N_bit
+	test_vedic_32
+
+} {} {}}
